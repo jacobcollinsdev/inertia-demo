@@ -9,6 +9,9 @@
         </header>
     </section>
     <section class="p-6">
+        <div>
+            <iframe class="mb-6" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b83b0a3a-c934-480e-af5d-3007fccd57b6?dark=false"></iframe>
+        </div>
         <div class="max-w-3xl mx-auto">
             <slot/>
         </div>
